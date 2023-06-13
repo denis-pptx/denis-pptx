@@ -20,7 +20,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" /></a>
 <a href="https://www.uobabylon.edu.iq/eprints/publication_1_26408_35.pdf" target="_blank" rel="noreferrer"> <img src="data/icons/asm.svg" alt="asm" width="50" height="50" /></a>
 
-<a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-7.0" target="_blank" rel="noreferrer"> <img src="data/icons/xaml.png" alt="xaml" width="50"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/maui/xaml/fundamentals/get-started" target="_blank" rel="noreferrer"> <img src="data/icons/xaml.png" alt="xaml" width="50"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="html5" width="50" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="50" height="50" /></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="50" height="50" /></a>
